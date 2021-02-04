@@ -38,9 +38,9 @@ const { ind } = require('./language')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Zen Admin\n' 
+            + 'FN:Arnoha.ID\n' 
             + 'ORG: Pengembang XBot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6283856061828:+62 838-5606-1828\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6281521931086:+62 815-2193-1086\n' 
             + 'END:VCARD' 
 blocked = []   
 prefix = '#'
@@ -50,7 +50,7 @@ cr = '*BOT INI SUDAH TERVERIFIKASI*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6283856061828@s.whatsapp.net","6283856061828@s.whatsapp.net"] 
+const ownerNumber = ["6281521931086@s.whatsapp.net","6281521931086@s.whatsapp.net"] 
 /************************************/
 
        
@@ -1572,7 +1572,7 @@ client.on('group-participants-update', async (anu) => {
             case 'owner':
             case 'creator':
                   client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
-                  client.sendMessage(from, 'Tuh nomer owner ku >_<, jangan spam atau ku block kamu',MessageType.text, { quoted: mek} )
+                  client.sendMessage(from, 'Kenapa tag2 owner ku',MessageType.text, { quoted: mek} )
 					break    
            case 'setname':
                 if (!isGroup) return reply(ind.groupo())
