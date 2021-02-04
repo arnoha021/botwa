@@ -124,7 +124,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *Role* : ${role}
 ┣⊱ *Level* : ${getLevelingLevel(sender)}
 ┣⊱ *User register* : ${_registered.length}
-┗━━━⊱  ⸨ *ZenKun* ⸩  ⊰━━━━┛
+┗━━━⊱  ⸨ *Arnoha.ID* ⸩  ⊰━━━━┛
 
 
 ┏━━⊱ *MAKER MENU* ⊰━━┓
@@ -210,14 +210,14 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *${prefix}event* [1/0]
 ┣⊱ *${prefix}clone* <tag>
 ┣⊱ *${prefix}setppbot*
-┣━━⊱ *THANGKS TO* ⊰━━┫
+┣━━⊱ *DEVELOPER* ⊰━━┫
 ┃
-┣⊱ *ZenKun* <dev>
-┣⊱ *FADHIL GRAPHY* <partner>
-┣⊱ *MHANKBARBARS* <sc ori>
+┣⊱ *ARNOHA.ID* <dev>
+┣⊱ *NOMOR : wa.me/081521931086*
+┣⊱ *INSTAGRAM : @arbi_al.n 
 ┣⊱ *MYBOT TEAM* <team>
 ┃
-┣⊱ NOTE : Buy=Bejralan
+┣⊱ NOTE : JANGAN LUPA DONASI😋
 ┃  
 ┃
 ┗━━⊱  ⸨ *X-BOT* ⸩  ⊰━━━━┛
